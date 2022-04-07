@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jimiwills
 - 👀 I’m interested in webdev, data, music...
-- 🌱 I’m currently learning openstack and heroku
-- 💞️ I’m looking to collaborate on something I can put on my CV
+- 🌱 I’m currently growing as a software engineer 
+- 💞️ I’m looking to collaborate on generating music from data
 - 📫 How to reach me: gmail - you know how.
 
 <!---
